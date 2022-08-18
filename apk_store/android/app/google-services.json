@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618347410946",
+    "project_id": "apk-store-f3157",
+    "storage_bucket": "apk-store-f3157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618347410946:android:820606dc576c2b7d49d91b",
+        "android_client_info": {
+          "package_name": "com.rsr.apk_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618347410946-92h8296lo8u31nqffm4s1tvvtangovg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6uAsWOkINa7O7vraDiuZzoyjlOJgy3qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618347410946-92h8296lo8u31nqffm4s1tvvtangovg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
